@@ -1,0 +1,17 @@
+body {
+    font-family: "Arial","Meiryo" sans-serif;
+}
+:root {
+    font-size: 20px;
+  }
+ .blue {
+    color: #a0d8ef;
+ }
+ .pink {
+    color: rgb(255, 192, 203);
+ }
+ h1 {
+	font-family: 'Josefin Sans', sans-serif;
+    　　font-family: 'Noto Sans JP', sans-serif;
+	font-size: 2em;	
+}
